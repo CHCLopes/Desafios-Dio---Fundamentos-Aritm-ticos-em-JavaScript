@@ -53,5 +53,5 @@ console.log(valor);
 for (let contador = 0; contador < cedula.length; contador++) {
   quantidadeDeCedulas[contador] = Math.floor(valor / cedula[contador]);
     valor = Math.floor(valor % cedula[contador]);
-    console.log(quantidadeDeCedulas[contador]+" notas de R$ "+cedula[contador]+",00");
+    console.log(quantidadeDeCedulas[contador]+" nota(s) de R$ "+cedula[contador]+",00");
     }

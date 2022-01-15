@@ -54,6 +54,6 @@ console.log(valor);
 while (cont < ced.length) {
   qtdCed[cont] = Math.floor(valor / ced[cont]);
     valor = Math.floor (valor % ced[cont]);
-    console.log (qtdCed[cont]+" notas de R$ "+ced[cont]+",00");
+    console.log (qtdCed[cont]+" nota(s) de R$ "+ced[cont]+",00");
     cont ++;
     }
