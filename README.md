@@ -1,4 +1,6 @@
-# Desafios Dio - Fundamentos Aritmeticos em JavaScript
+### Desafios Dio
 
-## Série de desafios com problemas envolvendo aritmética 
+# Fundamentos Aritméticos em JavaScript
+
+Série de desafios com problemas envolvendo aritmética 
 básica e lógica computacional
